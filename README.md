@@ -4,7 +4,7 @@
 
 Projeto de um Contador de números. Neste disafio vamos implementar os seguintes itens:
 
-1 - Implementar os eventos usando o método addEventListener.
+1 - Adicionar os eventos usando o método addEventListener.
 
 2 - Criar condicionais que desabilitam o botão de incrementar ou decrementar quando o count chegar a um determinado valor (ex.: 0 <= count =< 10).
 
