@@ -10,4 +10,4 @@ Projeto de um Contador de números. Neste disafio vamos implementar os seguintes
 
 3 - Mudar a cor do texto em CURRENT_NUMBER para vermelho quando o número for negativo.
 
-Todos desafios propostos foram foram realizados!
+Todos os desafios realizados.
