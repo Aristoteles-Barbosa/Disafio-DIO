@@ -2,9 +2,7 @@
 
 ## Contador com desafios DIO - Aula Stephany Nusch
 
-Projeto de um Contador de números. Aula da @stebsnusch que deixou os seguintes desafios:
-
-Caso você queira ir além, aqui estão algumas dicas de coisas para tentar:
+Projeto de um Contador de números. Neste disafio vamos implementar os seguintes itens:
 
 1 - Implementar os eventos usando o método addEventListener.
 
