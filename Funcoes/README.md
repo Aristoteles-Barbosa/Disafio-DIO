@@ -6,3 +6,6 @@
 3. Utilize a técnica "object destructuring" para manipular as propriedades desejadas de cada aluno.
 
 ## Atividade 2: This
+
+Dada a função calculaIdade, utilize os métodos call e apply para modificar o valor de this. Crie seus próprios objetos para esta atividade!
+
